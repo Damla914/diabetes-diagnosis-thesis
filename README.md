@@ -47,11 +47,7 @@ SMOTE
       ↓
 Nested Cross Validation
       ↓
-Hyperparameter Optimization
-      ↓
 Model Comparison
-      ↓
-Threshold Optimization
       ↓
 Calibration Analysis
       ↓
@@ -191,6 +187,6 @@ Possible future improvements include:
 
 ## Author
 
-**Merve Hilal**
+**Damla Hilal Erden**
 
 Bachelor's Degree in Mathematics Engineering
